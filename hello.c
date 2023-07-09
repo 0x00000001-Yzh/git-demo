@@ -4,5 +4,6 @@ int main{
 	printf("\n hello python ");
 	printf("\n hello hot-fix");
 	printf("\n master_file");
+	printf("\n hot_fix file");
 	return 0;
 }
